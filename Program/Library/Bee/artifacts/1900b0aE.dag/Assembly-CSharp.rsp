@@ -355,6 +355,7 @@
 "Assets/Class3th (Life Cycle)/Scripts/Life.cs"
 "Assets/Class4th (Get Component)/Scrilpts/Monster.cs"
 "Assets/Class4th (Get Component)/Scrilpts/Move.cs"
+"Assets/Class5th (Translate)/Scripts/AirCraft.cs"
 -langversion:9.0
 /deterministic
 /optimize+
