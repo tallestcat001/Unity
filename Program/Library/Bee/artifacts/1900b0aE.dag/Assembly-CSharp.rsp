@@ -356,6 +356,7 @@
 "Assets/Class4th (Get Component)/Scrilpts/Monster.cs"
 "Assets/Class4th (Get Component)/Scrilpts/Move.cs"
 "Assets/Class5th (Translate)/Scripts/AirCraft.cs"
+"Assets/Class7th (User Interface)/Scripts/ButtonManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+
