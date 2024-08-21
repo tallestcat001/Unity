@@ -357,6 +357,7 @@
 "Assets/Class4th (Get Component)/Scrilpts/Move.cs"
 "Assets/Class5th (Translate)/Scripts/AirCraft.cs"
 "Assets/Class7th (User Interface)/Scripts/ButtonManager.cs"
+"Assets/Class9th (Instantiate)/Scripts/CreatManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+
