@@ -6,18 +6,24 @@ public class CreatManager : MonoBehaviour
 {
     [SerializeField] GameObject food;
     [SerializeField] GameObject clone;
-    [SerializeField] float time;
+    [SerializeField] float time = 5.0f;
 
-    // Update is called once per frame
-    void Update()
+    WaitForSeconds waitForSeconds = new WaitForSeconds(5.0f);
+
+    private void Start()
     {
-        time += Time.deltaTime;
+        StartCoroutine(Create());
+    }
 
-        if(time >= 5.0f)
-        {
-            clone = Instantiate(food);
+    IEnumerator Create()
+    {
+        while(true)
+        { 
 
-            time = 0.0f;
+            Debug.Log("Start Coroutine");
+
+            yield return waitForSeconds;
+
         }
     }
 }
