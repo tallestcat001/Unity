@@ -358,6 +358,8 @@
 "Assets/Class11th (Sound)/BattleDragon/Dragons/Scripts/Camera/CameraFollow.cs"
 "Assets/Class11th (Sound)/BattleDragon/Dragons/Scripts/player_attack.cs"
 "Assets/Class11th (Sound)/BattleDragon/Dragons/Scripts/player_movement.cs"
+"Assets/Class11th (Sound)/Scripts/Dragon.cs"
+"Assets/Class11th (Sound)/Scripts/SoundManager.cs"
 "Assets/Class3th (Life Cycle)/Scripts/Life.cs"
 "Assets/Class4th (Get Component)/Scrilpts/Monster.cs"
 "Assets/Class4th (Get Component)/Scrilpts/Move.cs"
